@@ -111,8 +111,12 @@ akka.http.session {
 ```
 
 ## Usage
+
 1. Dependencies
+
 ```
 resolvers += "Maven Repo on github" at "https://BambooTuna.github.com/AuthenticationRouterSupport"
 "com.github.BambooTuna" %% "authenticationroutersupport" % "1.0.0-SNAPSHOT"
 ```
+
+2. [Sample](https://github.com/BambooTuna/AuthenticationRouterSupport/tree/master/boot/src/main/scala/com/github/BambooTuna/AuthenticationRouterSupport/sample)
