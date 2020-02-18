@@ -115,7 +115,7 @@ akka.http.session {
 1. Dependencies
 
 ```
-resolvers += "Maven Repo on github" at "https://BambooTuna.github.com/AuthenticationRouterSupport"
+resolvers += "Maven Repo on github" at "https://BambooTuna.github.io/AuthenticationRouterSupport"
 "com.github.BambooTuna" %% "authenticationroutersupport" % "1.0.0-SNAPSHOT"
 ```
 
